@@ -60,3 +60,4 @@ function showElement() {
     priceSeat.appendChild(newPrice);
    
    }
+  
